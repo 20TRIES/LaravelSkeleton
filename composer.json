@@ -8,9 +8,7 @@
         "php": ">=7.0",
         "laravel/framework": "5.2.*",
         "laravelcollective/html": "5.2.*",
-        "nesbot/carbon": "1.*",
-        "20tries/date_range": "0.0.*",
-        "20tries/filterable": "0.1.*"
+        "nesbot/carbon": "1.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
