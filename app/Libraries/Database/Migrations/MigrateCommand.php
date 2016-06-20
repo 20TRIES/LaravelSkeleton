@@ -1,4 +1,4 @@
-<?php namespace App\Libraries\CustomLaravelComponents\Database\Migrations;
+<?php namespace App\Libraries\Database\Migrations;
 
 
 use Illuminate\Contracts\Filesystem\Filesystem;

@@ -1,7 +1,7 @@
 <?php namespace App\Providers;
 
-use App\Libraries\CustomLaravelComponents\Database\Migrations\MigrateCommand;
-use App\Libraries\CustomLaravelComponents\Database\Migrations\Migrator;
+use App\Libraries\Database\Migrations\MigrateCommand;
+use App\Libraries\Database\Migrations\Migrator;
 
 class MigrationServiceProvider extends \Illuminate\Database\MigrationServiceProvider
 {
